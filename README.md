@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C, Javascript, Python**
 
-- 📫 How to reach me **paulojunior95@gmail.com**
+- 📫 How to reach me **paulojunior9395@gmail.com**
 
 - :black_nib: My favorite quote "We're sharper where we break"
 
