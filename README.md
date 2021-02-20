@@ -7,15 +7,10 @@
 
 - 🌱 I’m currently learning **Node, React, React-native, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShiroKyu](https://github.com/ShiroKyu)
-
-- 💬 Ask me about **C, Javascript, Python**
-
 - 📫 How to reach me **paulojunior9395@gmail.com**
 
 - :black_nib: My favorite quote "We're sharper where we break"
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirokyu&show_icons=true&locale=en&layout=compact" alt="shirokyu" /></p>
 
