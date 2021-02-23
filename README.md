@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
-<h3 align="center">A young man who seeks to work with DataScience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirokyu" alt="shirokyu" /> </p>
 
-- 🔭 I’m currently working on [FastFeet](https://github.com/ShiroKyu/FastFeet)
+- 🔭 I’m currently working on [moveit]()
 
 - 🌱 I’m currently learning **Node, React, React-native, Python**
 
