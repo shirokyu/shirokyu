@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirokyu" alt="shirokyu" /> </p>
 
-- 🔭 I’m currently working on [moveit]()
+- 🔭 I’m currently working on [AniDev](https://github.com/ShiroKyu/AniDev)
 
-- 🌱 I’m currently learning **Node, React, React-native, Python**
+- 🌱 I’m currently learning **Node, React, **
 
 - 📫 How to reach me **paulojunior9395@gmail.com**
 
