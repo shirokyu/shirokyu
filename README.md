@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shirokyu" alt="shirokyu" /> </p>
-
 - 🔭 I’m currently working on [AniDev](https://github.com/ShiroKyu/AniDev)
 
 - 🌱 I’m currently learning **Node, React, **
