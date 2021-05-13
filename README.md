@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 
-- 🌱 I’m currently learning **Node, Vue**
+- 🌱 I’m currently learning **Node, React**
 
 - 📫 How to reach me **paulojunior9395@gmail.com**
 
