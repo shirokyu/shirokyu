@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 <h2 align="center">My portifolio: https://my-portifolio-psi.vercel.app/</h2>
 
-- 🌱 I’m currently learning **Node, React**
+- 🌱 I’m currently learning **Node, Typescript, React, Java**
 
 - 📫 How to reach me **paulojunior9395@gmail.com**
 
@@ -9,13 +9,13 @@
 
 ## :space_invader: Stats <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirokyu&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="shirokyu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulosrlj&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="shirokyu" /></p>
 
-![Shirokyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirokyu&show_icons=true&theme=synthwave)
+![Shirokyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulosrlj&show_icons=true&theme=synthwave)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -23,6 +23,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux&logoColor=FCC624)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-Mongo-05122A?style=flat&logo=mongodb)&nbsp;
 
 <p align="center">
 <a href="https://linkedin.com/in/paulo-s-r-junior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="paulo-s-r-junior" height="20" width="20" /></a>
