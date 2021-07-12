@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Node, Typescript, React, Java**
 
-- 📫 How to reach me **paulojunior9395@gmail.com**
+- 📫 How to reach me **paulosrlj9095@gmail.com**
 
 - :black_nib: My favorite quote "We're sharper where we break"<br>
 
