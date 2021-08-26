@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 
-- 🌱 I’m currently learning **Node, Typescript, React, Java**
+- 🌱 I’m currently learning **Node, Typescript, React, Java, React Native**
 
 - 📫 How to reach me **paulosrlj9095@gmail.com**
 
 - :black_nib: My favorite quote "We're sharper where we break"<br>
+
+- 🇫🇷 Constantly learning english and french
 
 ## :space_invader: Stats <br>
 
