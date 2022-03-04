@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 
-- 🌱 I’m currently learning **Typescript, React, Java, Spring*
+- 🌱 Portfolio: https://paulosrlj.netlify.app/
 
 - 📫 How to reach me **paulosrlj9095@gmail.com**
 
