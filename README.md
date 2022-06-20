@@ -28,5 +28,5 @@ These are some of the technologies and tools that I work with:
 
 <p align="center">
 <a href="https://linkedin.com/in/paulo-s-r-junior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="paulo-s-r-junior" height="20" width="20" /></a>
-<a href="https://fb.com/paulo.sergio.shiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="paulo.sergio.shiro" height="20" width="20" /></a>
+<a href="https://fb.com/paulosrlj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="paulo.sergio.shiro" height="20" width="20" /></a>
 </p>
