@@ -54,11 +54,10 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/217paqshatdzwbnprpvorkuqqkuqq&unique=true)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=217paqshatdzwbnprpvorkuqq)
-  </a>
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217paqshatdzwbnprpvorkuqq&cover_image=true&theme=default&bar_color=b52eb8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
+
 
 ###
